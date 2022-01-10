@@ -40,4 +40,4 @@
  -->
 ![rasel's Github Stats](https://github-readme-stats.vercel.app/api?username=raselcse33&show_icons=true&theme=vue&count_private=true&layout=compact)
 
-![rasel's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahrasel&count_private=true&layout=compact)
+![rasel's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raselcse33&count_private=true&layout=compact)
