@@ -21,10 +21,6 @@
 ### 💻 What i am currently/done working on
 
 - From 9:30 AM to 6:30 PM: Top secret work related stuff for Dream71 Bangladesh Ltd. 😼
-- [POS Solution Using Microservice Architecture](#)
-- [Digital Bookshelf Using Lumen & Nuxt.Js](#) 🏊
-- [E-Wallet Using Flutter & Firebase](#) 🔥
-- [Digital Pharmacy Using Flutter, Nuxt.Js & Laravel](#) 🔥 💪
 
 <!-- ### 📖 What i am currently learning
 - ...
