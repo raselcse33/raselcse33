@@ -18,6 +18,8 @@
 - [Dream71 Bangladesh Ltd: Fullstack Developer](https://www.dream71.com/) 💼
 - Occasionally freelancing ⛵️
 
+<a href="https://app.daily.dev/raselcse33"><img src="https://api.daily.dev/devcards/v2/cGEIe5rqpqVsiXJS7gNpL.png?type=default&r=jol" width="356" alt="Rasel Munshi's Dev Card"/></a>
+
 ### 💻 What i am currently/done working on
 
 - From 9:30 AM to 6:30 PM: Top secret work related stuff for Dream71 Bangladesh Ltd. 😼
