@@ -16,7 +16,7 @@
 - 🌱 I’m skilled in **PHP, Laravel, JavaScript, Vue.js, Nuxt.js, and Microservices**.
 - 👨‍💻 Occasionally, I take on **freelance projects** to expand my expertise.
 - 💬 Ask me about **web development, APIs, or anything tech-related!**
-- 📫 How to reach me: **ahraselahamed@gmail.com**
+- 📫 How to reach me: **raselcse330@gmail.com**
 
 ---
 
